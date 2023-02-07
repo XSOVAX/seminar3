@@ -93,3 +93,5 @@ id ветки можно посмотреть в log, достаточно ве�
     git checkout master
 
 ## Ветвление в Git
+
+ddddddnxdvnmcx dgdfgj dfkgj fdg
